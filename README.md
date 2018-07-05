@@ -1,5 +1,10 @@
 # ImageDownloadingAsync
 Example of an Android application to download an image from a URL asynchronously
 
-* xamarin.android
-* c# language
+using:
+* visual studio 2017 community.
+* xamarin.android.
+* c# language.
+* FrameLayout.
+* ImageView.
+* ProgressBar.
