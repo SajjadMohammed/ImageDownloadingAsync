@@ -8,3 +8,8 @@ using:
 * FrameLayout.
 * ImageView.
 * ProgressBar.
+
+
+![alt text](https://github.com/SajjadMohammed/ImageDownloadingAsync/blob/master/Screenshot_20180705-204621%5B1%5D.png)
+
+![alt text](https://github.com/SajjadMohammed/ImageDownloadingAsync/blob/master/Screenshot_20180705-204626%5B1%5D.png)
